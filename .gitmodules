@@ -1,0 +1,4 @@
+[submodule "sitl_server/deps/ardupilot"]
+	path = sitl_server/deps/ardupilot
+	url = git://github.com/diydrones/ardupilot.git
+	ignore = dirty
