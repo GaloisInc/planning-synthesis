@@ -120,3 +120,8 @@ The `sitl_client` directory contains a single python module, named
 `sitl_client.py`.  When run this module will execute a simple test program that
 will connect to the server, move the quad-copter, then report its position for
 60 seconds.
+
+
+### Support
+
+This research was supported by AFRL under contract No. FA9550-15-C-0023
